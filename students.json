@@ -1,0 +1,27 @@
+{
+    "S002": {
+        "name": "Bob Smith",
+        "gpa": 3.5,
+        "department": "Electrical Engineering"
+    },
+    "S003": {
+        "name": "Charlie Brown",
+        "gpa": 3.9,
+        "department": "Mechanical Engineering"
+    },
+    "S004": {
+        "name": "Diana Prince",
+        "gpa": 4.0,
+        "department": "Computer Science"
+    },
+    "21091A3243": {
+        "name": "P.Satish Kumar",
+        "gpa": 8.5,
+        "department": "CSE(DS)"
+    },
+    "21091A3201": {
+        "name": "Abdul Gafoor",
+        "gpa": 8.0,
+        "department": "CSE(DS)"
+    }
+}
