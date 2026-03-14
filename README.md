@@ -3,7 +3,7 @@
 A simple, lightweight, and web-based student results management system built with **Python Flask**. This application allows users to add, manage, and view student records and results in a clean, organized interface.
 
 ## 🚀 Live Demo  
-👉 [https://student-record-app.onrender.com](https://student-results-management.onrender.com/)
+👉 [https://student-record-app.onrender.com](https://students-results-management.onrender.com)
 
 ---
 
